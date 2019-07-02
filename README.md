@@ -1,2 +1,2 @@
 # Kursovaya_OD_3Sem
-Number system calculator
+Graphical calculator of number systems (Qt)
